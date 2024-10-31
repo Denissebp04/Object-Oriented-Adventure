@@ -141,5 +141,12 @@ class AdventurerFactory {
   // added to part IV
 
 
+  //PART VII
+  const Tom = new Character("Tom", "Fighter");
+  Tom.duel(Robin);
+  const Sam = new Character("Sam", "Healer");
+  
+
+
 
 
